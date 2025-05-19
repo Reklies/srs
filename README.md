@@ -4,11 +4,7 @@ Software Requirement Specification for new-age Online examination system
 ## Table of Contents
 
 1. [Introduction](https://github.com/panchdevs/srs/blob/master/Introduction.md#1-introduction)
-  1. [Purpose](https://github.com/panchdevs/srs/blob/master/Introduction.md#11-purpose)
-  2. [Document Conventions](https://github.com/panchdevs/srs/blob/master/Introduction.md#12-document-conventions)
-  3. [Intended Audience and Reading Suggestions](https://github.com/panchdevs/srs/blob/master/Introduction.md#13-intended-audience-and-reading-suggestions)
-  4. [Product Scope](https://github.com/panchdevs/srs/blob/master/Introduction.md#14-product-scope)
-  5. [References](https://github.com/panchdevs/srs/blob/master/Introduction.md#15-references)
+
 2. [Overall Description](https://github.com/panchdevs/srs/blob/master/Overall%20Description.md#2-overall-description)
   1. [Product Perspective](https://github.com/panchdevs/srs/blob/master/Overall%20Description.md#21-product-perspective)
   2. [Product Functions](https://github.com/panchdevs/srs/blob/master/Overall%20Description.md#22-product-functions)
