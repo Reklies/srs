@@ -6,6 +6,13 @@ Software Requirement Specification for new-age Online examination system
 1. [Introduction](https://github.com/panchdevs/srs/blob/master/Introduction.md#1-introduction)
 
 2. [Overall Description](https://github.com/panchdevs/srs/blob/master/Overall%20Description.md#2-overall-description)
+
+3. [External Interface Requirements](https://github.com/panchdevs/srs/blob/master/External%20Interface%20Requirements.md#3-external-interface-requirements)
+
+
+
+
+
   1. [Product Perspective](https://github.com/panchdevs/srs/blob/master/Overall%20Description.md#21-product-perspective)
   2. [Product Functions](https://github.com/panchdevs/srs/blob/master/Overall%20Description.md#22-product-functions)
   3. [User Classes and Characteristics](https://github.com/panchdevs/srs/blob/master/Overall%20Description.md#23-user-classes-and-characteristics)
