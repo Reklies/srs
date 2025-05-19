@@ -1,5 +1,5 @@
 # srs
-Software Requirement Specification for the Twitter Sentiment Analysis project.
+Software Requirement Specification for new-age Online examination system
 
 ## Table of Contents
 
