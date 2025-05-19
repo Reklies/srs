@@ -22,9 +22,7 @@ Software Requirement Specification for new-age Online examination system
   2. [Hardware Interfaces](https://github.com/panchdevs/srs/blob/master/External%20Interface%20Requirements.md#32-hardware-interfaces)
   3. [Software Interfaces](https://github.com/panchdevs/srs/blob/master/External%20Interface%20Requirements.md#33-software-interfaces)
   4. [Communications Interfaces](https://github.com/panchdevs/srs/blob/master/External%20Interface%20Requirements.md#34-communications-interfaces)
-4. [System Features](https://github.com/panchdevs/srs/blob/master/System%20Features.md#4-system-features)
-5. [Other Nonfunctional Requirements](https://github.com/panchdevs/srs/blob/master/Other%20Nonfunctional%20Requirements.md#5-other-nonfunctional-requirements)
-  1. [Performance Requirements](https://github.com/panchdevs/srs/blob/master/Other%20Nonfunctional%20Requirements.md#51-performance-requirements)
+
   2. [Safety Requirements](https://github.com/panchdevs/srs/blob/master/Other%20Nonfunctional%20Requirements.md#52-safety-requirements)
   3. [Security Requirements](https://github.com/panchdevs/srs/blob/master/Other%20Nonfunctional%20Requirements.md#53-security-requirements)
 
