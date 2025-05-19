@@ -3,6 +3,38 @@ Software Requirement Specification for new-age Online examination system
 
 ## Table of Contents
 
+Software Engineering Practices and Process Models
+
+ Chosen Process Model: Agile with XP (Extreme Programming) Practices
+Why Agile?
+
+The system requires iterative refinement (e.g., adapting AI models, improving proctoring UX).
+
+Feedback from stakeholders (teachers, students) is essential.
+
+Continuous updates for security and cheating detection.
+
+XP Practices Used:
+
+Pair Programming (for critical AI components)
+
+Test-Driven Development (TDD)
+
+Continuous Integration (CI)
+
+Refactoring (especially for scalability and modularity)
+
+🔹 Agile Ceremonies & Artifacts
+Sprint Duration: 2 weeks
+
+Daily Standups: 15 minutes
+
+Sprint Planning: Backlog grooming + defining sprint goals
+
+Retrospectives: Improve process each iteration
+
+Artifacts: Product Backlog, Sprint Backlog, Burn-down Charts
+
 1. [Introduction](https://github.com/panchdevs/srs/blob/master/Introduction.md#1-introduction)
 
 2. [Overall Description](https://github.com/panchdevs/srs/blob/master/Overall%20Description.md#2-overall-description)
