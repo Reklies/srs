@@ -36,28 +36,33 @@ Retrospectives: Improve process each iteration
 Artifacts: Product Backlog, Sprint Backlog, Burn-down Charts
 
 # 1. Introduction
+## 1.1 Purpose
+To define the requirements of an Online Examination System (OES) with integrated remote proctoring and AI-based cheating detection.
 
-## 1.1 Purpose 
+## 1.2 Scope
+This system enables institutes to conduct online exams with the following features:
 
-Identify the product whose software requirements are specified in this document, including the revision or release number. Describe the scope of the product that is covered by this SRS, particularly if this SRS describes only part of the system or a single subsystem.
+Exam creation & scheduling
 
-## 1.2 Document Conventions
+Secure login/authentication
 
-Describe any standards or typographical conventions that were followed when writing this SRS, such as fonts or highlighting that have special significance. For example, state whether priorities  for higher-level requirements are assumed to be inherited by detailed requirements, or whether every requirement statement is to have its own priority.
+Live remote proctoring
 
-## 1.3 Intended Audience and Reading Suggestions
+AI-based cheating detection using webcam, mic, screen, and behavior analysis
 
-Describe the different types of reader that the document is intended for, such as developers, project managers, marketing staff, users, testers, and documentation writers. Describe what the rest of this SRS contains and how it is organized. Suggest a sequence for reading the document, beginning with the overview sections and proceeding through the sections that are most pertinent to each reader type.
+Result processing and analytics
 
-## 1.4 Product Scope
+## 1.3 Definitions, Acronyms, Abbreviations
 
-Provide a short description of the software being specified and its purpose, including relevant benefits, objectives, and goals. Relate the software to corporate goals or business strategies. If a separate vision and scope document is available, refer to it rather than duplicating its contents here.
+OES: Online Examination System
 
-## 1.5 References
+AI: Artificial Intelligence
 
-List any other documents or Web addresses to which this SRS refers. These may include user interface style guides, contracts, standards, system requirements specifications, use case documents, or a vision and scope document. Provide enough information so that the reader could access a copy of each reference, including title, author, version number, date, and source or location.
+SRS: Software Requirement Specification
 
+## 1.4 References
 
+IEEE SRS Standard 830-1998
 2. [Overall Description](https://github.com/panchdevs/srs/blob/master/Overall%20Description.md#2-overall-description)
 
 3. [External Interface Requirements](https://github.com/panchdevs/srs/blob/master/External%20Interface%20Requirements.md#3-external-interface-requirements)
