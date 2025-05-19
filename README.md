@@ -28,7 +28,7 @@ Software Requirement Specification for new-age Online examination system
   2. [Safety Requirements](https://github.com/panchdevs/srs/blob/master/Other%20Nonfunctional%20Requirements.md#52-safety-requirements)
   3. [Security Requirements](https://github.com/panchdevs/srs/blob/master/Other%20Nonfunctional%20Requirements.md#53-security-requirements)
   4. [Software Quality Attributes](https://github.com/panchdevs/srs/blob/master/Other%20Nonfunctional%20Requirements.md#54-software-quality-attributes)
-  5. [Business Rules](https://github.com/panchdevs/srs/blob/master/Other%20Nonfunctional%20Requirements.md#55-business-rules)
+
 6. [Other Requirements](https://github.com/panchdevs/srs/blob/master/Other%20Requirements.md#6-other-requirements)
 
 [Appendix A: Glossary](https://github.com/panchdevs/srs/blob/master/Appendix.md#appendix-a-glossary)
