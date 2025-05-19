@@ -3,7 +3,7 @@ Software Requirement Specification for new-age Online examination system
 
 ## Table of Contents
 
-Software Engineering Practices and Process Models
+## Software Engineering Practices and Process Models
 
  Chosen Process Model: Agile with XP (Extreme Programming) Practices
 Why Agile?
